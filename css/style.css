@@ -195,8 +195,12 @@ img {
         width: 100%;
     }
 
-    img {
+    .steps .col img {
         height: 270px;
+    }
+
+    .steps{
+        margin: 0;
     }
 
 
@@ -204,10 +208,25 @@ img {
     /* why us section */
 
     .why-us{
-        
+        background-color: #222222;
     }
 
 
+    .why-us h2{
+        padding-top: 3.5rem;
+    }
+
+
+    .why-us img{
+        max-width:none;
+        height: 370px;
+        padding-left: 2rem;
+        margin-bottom: 3rem;
+    }
+
+    .why-us .col-right{
+        width: 100%;
+    }
 }
 
 
