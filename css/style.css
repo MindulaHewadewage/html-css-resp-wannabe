@@ -174,9 +174,6 @@ img {
         flex-direction: column;
     }
 
-    p{
-   
-    }
 
     .lessons .col {
         width: 100%;
@@ -198,4 +195,19 @@ img {
         width: 100%;
     }
 
+    img {
+        height: 270px;
+    }
+
+
+
+    /* why us section */
+
+    .why-us{
+        
+    }
+
+
 }
+
+
